@@ -1,7 +1,7 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="7" inline="true" x="77" y="55">
+  <block type="controls_repeat" id="1" inline="true" x="70" y="94">
     <value name="TIMES">
-      <block type="math_number" id="14">
+      <block type="math_number" id="2">
         <field name="NUM">4</field>
       </block>
     </value>
